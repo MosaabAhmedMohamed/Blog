@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "115916411161",
+    "firebase_url": "https://blog-v2-48f0c.firebaseio.com",
+    "project_id": "blog-v2-48f0c",
+    "storage_bucket": "blog-v2-48f0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115916411161:android:0a224b8685bd18a0",
+        "android_client_info": {
+          "package_name": "com.example.mosab.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115916411161-rpfs6b61a39tnlom1n9tai4do0iq1i8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mosab.blog",
+            "certificate_hash": "405f7e952388375d74c5841a62afd24c4f6a8023"
+          }
+        },
+        {
+          "client_id": "115916411161-s7q1g9jvgm2293f35a0nmvmf9tscqlae.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "115916411161-s7q1g9jvgm2293f35a0nmvmf9tscqlae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgvr5b4JLjcwzBE37uB-OlwTdltkW3s-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115916411161-s7q1g9jvgm2293f35a0nmvmf9tscqlae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
